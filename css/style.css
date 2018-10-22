@@ -1,0 +1,50 @@
+.navbar-default
+{
+	 background-color: #384452;
+    border-color: transparent;
+
+}
+.navbar {
+    min-height: 70px;
+    padding-top: 10px;
+    margin-bottom: 0px;
+}
+.bg1
+{
+	background-color:#00b3fe;
+	padding-top: 100px;
+}
+.a1, .a2, .a3 
+{
+	font-size: 60px;
+	color:#00b3fe;
+}
+.bg2
+{
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+.navbar-default .navbar-brand, .navbar-default .navbar-nav>li>a
+{
+	    color: white;
+}
+.btn {
+    display: inline-block;
+    padding: 6px 12px;
+    margin-bottom: 0;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    color: #fff;
+    background-color: #384452;
+    border-color: #384452;
+    margin: 4px;
+}
+.a4 h3, .a5 h3
+{
+	border-bottom: 2px solid black;
+}
+
+.a4 li, .a5 li
+{
+	list-style: none;
+}
